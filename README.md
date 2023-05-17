@@ -9,7 +9,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maestroxxxviii&show_icons=true&locale=en" alt="maestroxxxviii" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maestroxxxviii&show_icons=true&locale=en&layout=compact" alt="maestroxxxviii" /></p>
 
-![Image alt](https://github.com/MaestroXXXVIII/MaestroXXXVIII/blob/main/programmer.gif)
+![Image alt]<p align=left>(https://github.com/MaestroXXXVIII/MaestroXXXVIII/blob/main/programmer.gif)</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
