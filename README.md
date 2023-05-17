@@ -3,6 +3,8 @@
 
 ![Image alt](https://github.com/MaestroXXXVIII/MaestroXXXVIII/blob/main/programmer.gif)
 
+<h3 align="center">Stats:</h3>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maestroxxxviii&show_icons=true&locale=en" alt="maestroxxxviii" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maestroxxxviii&show_icons=true&locale=en&layout=compact" alt="maestroxxxviii" /></p>
 
