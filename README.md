@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oleg</h1>
+<h1 align="center">Hi there 👋, I'm Oleg</h1>
 <h3 align="center">Backend Developer</h3>
 
 ![Image alt](https://github.com/MaestroXXXVIII/MaestroXXXVIII/blob/main/programmer.gif)
