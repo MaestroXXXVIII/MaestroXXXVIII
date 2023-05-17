@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 📫 How to reach me **urmanov.pro@gmail.com**
-
 ![Image alt](https://github.com/MaestroXXXVIII/MaestroXXXVIII/blob/main/programmer.gif)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maestroxxxviii&show_icons=true&locale=en" alt="maestroxxxviii" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maestroxxxviii&show_icons=true&locale=en&layout=compact" alt="maestroxxxviii" /></p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
